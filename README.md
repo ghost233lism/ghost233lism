@@ -1,7 +1,7 @@
 # ABOUT ME
 **Someday, I will discover or cultivate a type of cactus named after me!!!**
 
-**Welcome, my** ![Visitor Count](https://profile-counter.glitch.me/TephrocactusMYC/count.svg) **visitor!**
+**Welcome, my** ![Visitor Count](https://profile-counter.glitch.me/ghost233lism/count.svg) **visitor!**
 
 | My GitHub Status                                                                                                                                                     | Most Used Languages                                                                                                                          |
 |----------------------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------|
