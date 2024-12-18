@@ -1,5 +1,4 @@
 # ABOUT ME
-**Someday, I will discover or cultivate a type of cactus named after me!!!**
 
 **Welcome, my** ![Visitor Count](https://profile-counter.glitch.me/ghost233lism/count.svg) **visitor!**
 
